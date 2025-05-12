@@ -1,0 +1,15 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['A', 'B', 'D']
+
+roboflow:
+  workspace: rana-zain
+  project: blood-group-detection-4yvdx-8psow
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rana-zain/blood-group-detection-4yvdx-8psow/dataset/1
+
+  

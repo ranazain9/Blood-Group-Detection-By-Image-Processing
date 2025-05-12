@@ -1,0 +1,7 @@
+OpenCV-python
+NumPy
+matplotlib
+scikit-learn
+pillow
+seaborn
+notebook
